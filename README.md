@@ -33,13 +33,17 @@ Uygulama OpenWeatherMap API’si üzerinden şehirlerin hava durumunu getirir.
 
 ```bash
  cd hava-durumu
-
+```
 
 3. Gerekli bağımlılıkları yükle:
-   npm install
 
+```bash
+   npm install
+```
 
 4. projeyi başlat:
+
+```bash
    npm start
 
 ```
