@@ -24,3 +24,22 @@ Uygulama OpenWeatherMap API’si üzerinden şehirlerin hava durumunu getirir.
    ```bash
    git clone https://github.com/kullanici-adin/hava-durumu.git
    ```
+2. Proje dizinine gir:
+   cd hava-durumu
+
+3. Gerekli bağımlılıkları yükle:
+   npm install
+
+4. projeyi başlat:
+   npm start
+
+API Anahtarı
+
+Uygulama, OpenWeatherMap API’si kullanır.
+Kendi API anahtarınızı almak için https://openweathermap.org/api
+adresinden kayıt olabilirsiniz.
+
+Geliştirici
+
+Gamze Fidan
+junior Frontend Developer
