@@ -36,10 +36,9 @@ Uygulama OpenWeatherMap API’si üzerinden şehirlerin hava durumunu getirir.
 API Anahtarı
 
 Uygulama, OpenWeatherMap API’si kullanır.
-Kendi API anahtarınızı almak için https://openweathermap.org/api
-adresinden kayıt olabilirsiniz.
+Kendi API anahtarınızı almak için https://openweathermap.org/api adresinden kayıt olabilirsiniz.
 
 Geliştirici
 
 Gamze Fidan
-junior Frontend Developer
+Junior Frontend Developer
