@@ -54,7 +54,6 @@ Uygulama, OpenWeatherMap API’si kullanır.
 Kendi API anahtarınızı almak için https://openweathermap.org/api adresinden kayıt olabilirsiniz.
 
 Geliştirici
-
 Gamze Fidan
 Junior Frontend Developer
 
